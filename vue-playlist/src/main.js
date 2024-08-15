@@ -6,6 +6,7 @@ import Footer from './components/footer.vue'; // Footer'ı büyük harfle başla
 const app = createApp(App);
 
 // Header ve Footer bileşenlerini global olarak kaydediyoruz
+// Global olarak kaydetmek projenin her yerinde kullanabilceğimiz anlamına geliyor .Eğer local olarak kaydetseydik bilşen sadece tanımlandığı yerde kullanılabilecekti
 app.component("app-header", Header);
 app.component("app-footer", Footer);
 
