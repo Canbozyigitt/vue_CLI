@@ -32,7 +32,7 @@
         // Kullanıcı listesi
         users: [
           { name: "liva", spec: "kale", show: false },
-          { name: "ferdi", spec: "bek", show: false },
+          { name: "ferdi", spec: "baba", show: false },
           { name: "maxim", spec: "solkanat", show: false },
           { name: "irfan", spec: "sağkanat", show: false },
           { name: "djiku", spec: "stoper", show: false },
